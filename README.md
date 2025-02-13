@@ -1,4 +1,5 @@
 # Python_PLP
+## ASSIGNMENT WEEK 1
 Instructions:
 
 Basic Calculator Program
@@ -8,5 +9,7 @@ Create a simple Python program that asks the user to input two numbers and a mat
 Perform the operation based on the user's input and print the result.
 
 Example: If a user inputs 10, 5, and +, your program should display 10 + 5 = 15.
+
+## ASSIGNMENT WEEK 2
 
 
